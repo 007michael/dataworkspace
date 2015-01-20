@@ -1,0 +1,22 @@
+acc_x:
+    数值型，body_acc_x
+acc_y
+    数值型，body_acc_y
+acc_z:
+    数值型，body_acc_z
+gyro_x:
+    数值型，body_gyro_x
+gyro_y:
+    数值型，body_gyro_y
+gyro_z:
+    数值型，body_gyro_z
+total_x:
+    数值型，total_acc_x
+total_y:
+    数值型，total_acc_y
+total_z:
+    数值型，total_acc_z
+activity:
+    字符型
+    train-培训数据
+    test-测试数据
